@@ -4,7 +4,7 @@ Listo abaixo alguns dos projetos que realizei utilizando Python, R e LaTex. *Out
 
 # Explorando a PNADc (terceiro trimestre  de 2024) 
 Utilizando o pacote PNADcIBGE, coletei dados da Pesquisa Nacional por Amostra de Domicílio Contínua (PNADc), que agrega caractrísticas da população brasileira como renda, nível de educação e emprego.
-Ao aplicar funções dos pacotes "survey" e "convey" nos microdados obtidos, é possível obter inúmeros indicadores e taxas para a economia brasileira. Entre as diversas informações que calculei, estão:
+Ao aplicar funções dos pacotes "survey" e "convey" nos microdados obtidos, é possível calcular inúmeros indicadores e taxas para a economia brasileira. Entre as diversas informações que calculei, estão:
 * A taxa de desemprego nacional: 6,4%
 * Taxa de desemprego na Região Metropolitana do Recife: 11,81%
 * A renda média da população brasileira: R$ 3.267,7; a renda média da mulher brasileira: R$ 2.817,6; a do homem: R$ 3.605,2; e a renda média da mulher preta no estado de Pernambuco: R$ 2.151,2.
@@ -16,7 +16,7 @@ A pesquisa é de grande valia para diversas aplicações. Os dados calculados pe
 [Clique aqui para acessar o código](https://github.com/Danieldnv/portfolio_p/blob/main/codigos/pnad_portfolio_en.R)  
 
 # Inadimplência de pessoas físicas e jurídicas 
-Com o pacote que acessa dados por meio da API do banco central do Brasil, eu coletei a taxa de inadimplência mensal de pessoas físicas e jurídicas (por favor, verifique a definição), de 2011 a 2024. Utilizando o pacote ggplot2, gerei um gráfico animado para mostrar, de maneira dinâmica, as mudanças que ocorreram nas taxas ao longo do tempo.
+Com o pacote que acessa dados por meio da API do banco central do Brasil, eu coletei a taxa de inadimplência mensal de pessoas físicas e jurídicas (por favor, verifique a definição), de 2011 a 2024. Com essas informações, gerei um gráfico animado para mostrar de maneira dinâmica as mudanças que ocorreram nas taxas ao longo do tempo.
   
 <p align="center">
   <img src="imagens/animated_plot_better.gif" width="50%"> 
@@ -39,7 +39,7 @@ Utilizando a biblioteca "yfinance", coletei informações sobre as ações da Te
 # MGLU3, BOVA11, Dólar e Ibovespa
 
 Nesse projeto, também fazendo uso da biblioteca "yfinance", construí uma visualização do ETF BOVA11 e da ação da MGLU3 acompanhada de sua média móvel para o período.
-Adicionalmente, coletei informação sobre o índice ibovespa e do dólar, destacando a data em que o copom definiu a SELIC em 11,25%. Um importante ponto a destacar é que, apesar da alta na taxa de juros, o dólar seguiu subindo.
+Adicionalmente, coletei informação sobre o índice ibovespa e do dólar, destacando a data em que o copom definiu a SELIC em 11,25%. 
 
 <p align="center">
   <img src="imagens/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
