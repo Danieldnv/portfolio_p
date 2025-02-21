@@ -11,7 +11,7 @@ Ao aplicar funções dos pacotes "survey" e "convey" nos microdados obtidos, é 
 * O percentual de mulheres brancas de 20 a 30 anos que estão desempregadas: 8,479%
 * A composição racial da população brasileira (valores aproximados): 42% são brancos; 10% pretos, 0,6% amarelos; 46% pardos; 0,4% indígenas e 0,01% ignorados (A definição de cada raça está de acordo com o IBGE).  
 
-A pesquisa é de grande valia para diversas aplicações. Os dados calculados permitem uma minusciosa análise do estado econômico do país. Com o pacote que utilizei, é possível selecionar variáveis específicas da pesquisa sem precisar fazer o download de todas as informações coletadas pelo IBGE. Mesmo assim, ainda é uma grande quantidade de dados.
+A pesquisa é de grande valia para diversas aplicações. Os dados calculados permitem uma minusciosa análise do estado econômico do país. 
 
 [Clique aqui para acessar o código](https://github.com/Danieldnv/portfolio_p/blob/main/codigos/pnad_portfolio_en.R)  
 
