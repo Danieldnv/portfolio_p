@@ -27,7 +27,7 @@ A definição, de acordo com o site oficial do Banco Central é: *Percentual da 
 [Clique aqui para acessar o código](https://github.com/Danieldnv/portfolio_p/blob/main/codigos/animated_plot_portfolio.R)  
 
 # Preços de fechamento das ações da Tesla e da Apple
-Utilizando a biblioteca "yfinance", coletei informações sobre as ações da Tesla e da Apple por meio da API do Yahoo! Finance. A partir dos dados obtidos, separei os preços de fechamento e gerei uma representação visual que ilustra, para ambas as ações, o principal impacto da pandemia de COVID-19 nos preços, bem como a maior cotação durante 01/01/2019 e 01/10/2019.  
+Utilizando a biblioteca "yfinance", coletei informações sobre as ações da Tesla e da Apple por meio da API do Yahoo! Finance. A partir dos dados obtidos, separei os preços de fechamento e gerei uma representação visual que ilustra, para ambas as ações, o principal impacto da pandemia de COVID-19 nos preços, bem como a maior cotação durante 01/01/2019 e 01/10/2024.  
 É possível observar que, apesar da grande queda durante a COVID-19, o valor de ambas as ações apresentaram forte crescimento, superando as cotações anteriores por uma grande marge.
 
 <p align="center">
