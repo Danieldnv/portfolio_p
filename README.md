@@ -1,6 +1,6 @@
 # Portfólio - Daniel Nunes Vital
 ### nunesvitald@gmail.com
-Listo abaixo alguns dos projetos que realizei utilizando Python, R e LaTex. *Outros trabalhos podem ser encontrados [aqui]()*
+Listo abaixo alguns dos projetos que realizei utilizando Python, R e LaTeX. *Outros trabalhos podem ser encontrados [aqui]()*
 
 # Explorando a PNADc (terceiro trimestre  de 2024) 
 Utilizando o pacote PNADcIBGE, coletei dados da Pesquisa Nacional por Amostra de Domicílio Contínua (PNADc), que agrega caractrísticas da população brasileira como renda, nível de educação e emprego.
