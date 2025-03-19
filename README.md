@@ -15,16 +15,6 @@ A pesquisa é de grande valia para diversas aplicações. Os dados calculados pe
 
 [Clique aqui para acessar o código](https://github.com/Danieldnv/portfolio_p/blob/main/codigos/pnad_portfolio_en.R)  
 
-# Inadimplência de pessoas físicas e jurídicas 
-Com o pacote que acessa dados por meio da API do banco central do Brasil, eu coletei a taxa de inadimplência mensal de pessoas físicas e jurídicas (por favor, verifique a definição), de 2011 a 2024. Com essas informações, gerei um gráfico animado para mostrar de maneira dinâmica as mudanças que ocorreram nas taxas ao longo do tempo.
-  
-<p align="center">
-  <img src="imagens/animated_plot_better.gif" width="50%"> 
-</p>  
-
-A definição, de acordo com o site oficial do Banco Central é: *Percentual da carteira de crédito do Sistema Financeiro Nacional com pelo menos uma parcela com atraso superior a 90 dias. Inclui operações contratadas no segmento de crédito livre e no segmento de crédito direcionado.* [Verifique aqui](https://dadosabertos.bcb.gov.br/dataset/21083-inadimplencia-da-carteira-de-credito---pessoas-juridicas---total)  
-
-[Clique aqui para acessar o código](https://github.com/Danieldnv/portfolio_p/blob/main/codigos/animated_plot_portfolio.R)  
 
 # Preços de fechamento das ações da Tesla e da Apple
 Utilizando a biblioteca "yfinance", coletei informações sobre as ações da Tesla e da Apple por meio da API do Yahoo! Finance. A partir dos dados obtidos, separei os preços de fechamento e gerei uma representação visual que ilustra, para ambas as ações, o principal impacto da pandemia de COVID-19 nos preços, bem como a maior cotação durante 01/01/2019 e 01/10/2024.  
